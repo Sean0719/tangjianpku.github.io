@@ -33,8 +33,5 @@ Recent Papers
 
 Selected Publications
 ======
-#* Jian Tang, Jingzhou Liu, Ming Zhang and Qiaozhu Mei. [Visualizing Large-scale and High-dimensional Data](https://arxiv.org/abs/1602.00370). WWW'16. \[[code]##(https://github.com/lferry007/LargeVis)\]\[[slides](https://docs.google.com/viewer?a=v&pid=sites&srcid=ZGVmYXVsdGRvbWFpbnxwa3VqaWFudGFuZ3xneDo0NjZiMWMwNzBlNzVhNmQ0)\] <span style="color:red">(Best paper nomination 5/727)</span> 
-#* Jian Tang, Meng Qu, and Qiaozhu Mei. [PTE: Predictive Text Embedding through Large-scale Heterogeneous Text Networks](https://arxiv.org/abs/1508.00200). KDD'15. \[[code](https://github.com/mnqu/PTE)\]
-#* Jian Tang, Meng Qu, Mingzhe Wang, Ming Zhang, Jun Yan and Qiaozhu Mei. [LINE: Large-scale Information Network Embedding](https://arxiv.org/abs/1503.03578). WWW'15. \[[code](https://github.com/tangjianpku/LINE)\] <span style="color:red">(Most cited paper in WWW'15)</span>
-#* Jian Tang, Zhaoshi Meng, XuanLong Nguyen, Qiaozhu Mei and Ming Zhang. [Understanding the limiting factors of topic modeling via posterior contraction analysis](http://proceedings.mlr.press/v32/tang14.pdf). In proceedings of the 31st International Conference on Machine Learning (ICML), Beijing, June 2014. <span style="color:red">(Best paper award, 1/1500)</span>
-
+* Bin Yang, Mingjie Liu, Hakil Kim, Xuenan Cui. [Luenberger-sliding mode observer based fuzzy double loop integral sliding mode controller for electronic throttle valve.](https://www.sciencedirect.com/science/article/pii/S0959152417302068). Journal of Process Control'18.  
+* Yongfu Li, Bin Yang, Taixiong Zheng, Yingguo LI, Mingyue Cui, Srinivas Peeta. [Extended-State-Observer-Based Double-Loop Integral Sliding-Mode Control of Electronic Throttle Valve](https://ieeexplore.ieee.org/abstract/document/7066963). IEEE Transactions on Intelligent Transportation Systems'15. 
