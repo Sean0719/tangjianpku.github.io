@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Sean Bin Yang"
 description              : &description "Phd Fellow"
 description              : &description "DPW, Computer Science"
-description              : &Aalborg University"
+description              : & "Aalborg University"
 url                      : https://sean-bin-yang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sean-bin-yang/sean-bin-yang.github.io"
@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : #&twitter
 facebook:
   username               :
   app_id                 :
@@ -84,8 +84,8 @@ author:
   avatar           : "bin.jpg"
   bio              : |
     Phd Fellow, <br>
-    DPW <br>
-    Computer Science, Aalborg University
+    Computer Science <br>
+    Aalborg University
   location         : "Aalborg, Denmark"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=oIYY6AQAAAAJ&hl=en"
@@ -97,7 +97,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "sean-bin-yang"
+  github           : "Sean Bin Yang"
   google_plus      :
   keybase          :
   instagram        :
