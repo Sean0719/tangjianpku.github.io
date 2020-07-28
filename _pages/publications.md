@@ -8,7 +8,6 @@ permalink: /publications/
 
 Machine Learning and Spatial Temporal Data Analysis
 ======
-* <span style="color:red">New!!</span> Sean Bin Yang, Bin Yang, Chenjuan Guo. [Context-Aware Path Ranking in Road Networks], Submitted to TKDE, 2020.
 * Sean Bin Yang, Bin Yang. "[Learning to rank paths in spatial networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101780)", ICDE'20.
 * Sean Bin Yang, Bin Yang. "[PathRank: A Multi-Task Learning Framework to Rank Paths in Spatial Networks](https://arxiv.org/abs/1907.04028)", arXiv'19.
 
