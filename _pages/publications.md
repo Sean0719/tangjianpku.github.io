@@ -8,7 +8,7 @@ permalink: /publications/
 
 Machine Learning and Spatial Temporal Data Analysis
 ======
-* <span style="color:red">New!!</span> Sean Bin Yang, Bin Yang, Chenjuan Guo. [Context-Aware Path Ranking in Road Networks], Submitted to TKDE.
+* <span style="color:red">New!!</span> Sean Bin Yang, Bin Yang, Chenjuan Guo. [Context-Aware Path Ranking in Road Networks], Submitted to TKDE, 2020.
 * Sean Bin Yang, Bin Yang. "[Learning to rank paths in spatial networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101780)", ICDE'20.
 * Sean Bin Yang, Bin Yang. "[PathRank: A Multi-Task Learning Framework to Rank Paths in Spatial Networks](https://arxiv.org/abs/1907.04028)", arXiv'19.
 
@@ -19,4 +19,4 @@ Control Theory
 * Yongfu Li, Bin Yang, Xuebo Zhang, Qiuxuan Wu, Taixiong Zheng. [Extended state observer–based intelligent double integral sliding mode control of electronic throttle valve](https://journals.sagepub.com/doi/full/10.1177/1687814017737981), Advances in Mechanical Engineering.
 * Yongfu Li, Yuhao Kang, Bin Yang, Srinivas Peeta, Li Zhang, Taixiong Zheng, Yinguo Li. [A sliding mode controller for vehicular traffic flow](https://www.sciencedirect.com/science/article/pii/S0378437116303211), Physica A: Sattistical Mechanics and its Applications, 2016, 462(15): 38-47.
 * Yongfu Li, Bin Yang, Taixiong  Zheng, Yinguo Li. [Extended State Observer Based Adaptive Back-Stepping Sliding Mode Control of Electronic Throttle in Transportation Cyber-Physical Systems](https://www.hindawi.com/journals/mpe/2015/301656/), Mathematical Problems in Engineering, 2015, 301656.
-* Yongfu Li, Bin Yang, Taixiong Zheng, Yinguo Li, Mingyue Cui, Srinivas Peeta. [Extended-State-Observer-Based Double-Loop Integral Sliding-Mode Control of Electronic Throttle Valve](https://ieeexplore.ieee.org/abstract/document/7066963), IEEE Transactions on Intelligent Transportation Systems, 16(5): 2501-2510.
+* Yongfu Li, Bin Yang, Taixiong Zheng, Yinguo Li, Mingyue Cui, Srinivas Peeta. [Extended-State-Observer-Based Double-Loop Integral Sliding-Mode Control of Electronic Throttle Valve](https://ieeexplore.ieee.org/abstract/document/7066963), IEEE Transactions on Intelligent Transportation Systems, 2015, 16(5): 2501-2510.
