@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sean Bin Yang's Homepage"
 title_separator          : "-"
-name                     : &name "Sean Bin Yang"
+name                     : &name "Sean Bin Yang 杨斌"
 description              : &description "Phd Fellow"
 description              : &description "DPW, Computer Science"
 description              : &description "Aalborg University"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sean Bin Yang"
+  name             : "Sean Bin Yang, 杨斌"
   avatar           : "bin.jpg"
   bio              : |
     Phd Fellow, <br>
@@ -89,7 +89,7 @@ author:
   location         : "Aalborg, Denmark"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=oIYY6AQAAAAJ&hl=en"
-  email            :“byang.gm@gmail.com”
+  email            : "byang.gm@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -97,13 +97,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Sean-Bin=Yang"
+  github           : "Sean-Bin-Yang"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "https://orcid.org/0000-0001-7819-2290"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
