@@ -6,13 +6,7 @@ permalink: /publications/
 
 [Google Scholar](https://scholar.google.com/citations?user=oIYY6AQAAAAJ&hl=en)    [DBLP](https://dblp.uni-trier.de/pers/y/Yang_0016:Bin.html)
 
-Conference Publications
-======
 * Sean Bin Yang, Bin Yang. "[Learning to rank paths in spatial networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101780)", ICDE'20.
-
-
-Journal Publications & Preprint
-======
 * Sean Bin Yang, Bin Yang. "[PathRank: A Multi-Task Learning Framework to Rank Paths in Spatial Networks](https://arxiv.org/abs/1907.04028)", arXiv'19.
 * Taixiong zheng, Bin Yang, Yongfu Li, Ying Ma. [Luenberger-Sliding Mode Observer Based Backstepping Control for the SCR System in a Diesel Engine](https://www.mdpi.com/1996-1073/12/22/4270), Energies 2019, 12(22): 4270.
 * Bin Yang, Mingjie Liu, Hakil Kim, Xuenan Cui. [Luenberger-sliding mode observer based fuzzy double loop integral sliding mode controller for electronic throttle valve](https://www.sciencedirect.com/science/article/pii/S0959152417302068), Journal of Process Control 2018, 61: 36-46.
