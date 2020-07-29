@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Sean Bin Yang's Homepage"
 title_separator          : "-"
-name                     : &name "Sean Bin Yang (斌 杨)"
+name                     : &name "Sean Bin Yang"
 description              : &description "Phd Fellow"
 description              : &description "DPW, Computer Science"
 description              : &description "Aalborg University"
