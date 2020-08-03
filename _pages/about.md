@@ -33,7 +33,7 @@ Recent Papers
 
 Selected Publications
 ======
-* **Bin Yang**, Mingjie Liu, Hakil Kim, Xuenan Cui. "[Luenberger-sliding mode observer based fuzzy double loop integral sliding mode controller for electronic throttle valve](https://www.sciencedirect.com/science/article/pii/S0959152417302068)", Journal of Process Control 2018, 61: 36-46.
+* **Bin Yang**, Mingjie Liu, Hakil Kim, Xuenan Cui. "[Luenberger-sliding mode observer based fuzzy double loop integral sliding mode controller for electronic throttle valve](https://www.sciencedirect.com/science/article/pii/S0959152417302068)", Journal of Process Control, 2018, 61: 36-46.
 * Yongfu Li, Yuhao Kang, **Bin Yang**, Srinivas Peeta, Li Zhang, Taixiong Zheng, Yinguo Li. "[A sliding mode controller for vehicular traffic flow](https://www.sciencedirect.com/science/article/pii/S0378437116303211)", Physica A: Sattistical Mechanics and its Applications, 2016, 462(15): 38-47.
 * Yongfu Li, **Bin Yang**, Taixiong Zheng, Yinguo Li, Mingyue Cui, Srinivas Peeta. "[Extended-State-Observer-Based Double-Loop Integral Sliding-Mode Control of Electronic Throttle Valve](https://ieeexplore.ieee.org/abstract/document/7066963)", IEEE Transactions on Intelligent Transportation Systems, 2015, 16(5): 2501-2510.
 
