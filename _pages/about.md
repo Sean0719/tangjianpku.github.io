@@ -14,7 +14,7 @@ I am a first year Ph.D student at Center for Data-Intensive System in Department
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> One paper was accepted as short paper by ICDE2020!
+* <span style="color:red">New!!</span> [Aug. 2019] One paper was accepted as short paper by ICDE2020!
 
 
 Research Interests
