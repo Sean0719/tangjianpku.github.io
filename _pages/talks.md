@@ -5,8 +5,8 @@ author_profile: true
 ---
 ML Seminar 
 ======
-* [Explainable AI](https://github.com/Sean-Bin-Yang/Sean-Bin-Yang.github.io/blob/master/files/Explainable%20AI.pdf)
+* [Explainable AI, 14, Aug. 2020](https://github.com/Sean-Bin-Yang/Sean-Bin-Yang.github.io/blob/master/files/Explainable%20AI.pdf)
 
 Conference 
 ======
-* xxxxx.
+* [ICDE, April, 2020](https://github.com/Sean-Bin-Yang/Sean-Bin-Yang.github.io/blob/master/files/Sean_icde2020.pdf)
