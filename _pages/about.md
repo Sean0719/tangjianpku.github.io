@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year Ph.D student at Center for Data-Intensive System in Department of Computer Science at Aalborg University. Currently, I conduct my graduate research under the supervision of Prof. Bin Yang. Before that, I obtained my Bachelor's and Master's degree in Mechanical Engineering at Chongqing University of Posts and Telecommunications in 2012 and 2015, respectively.
+I am a Ph.D fellow at Center for Data-Intensive System in Department of Computer Science at Aalborg University. Currently, I conduct my graduate research under the supervision of Prof. Bin Yang and Jilin Hu. Before that, I obtained my Bachelor's and Master's degree in Mechanical Engineering at Chongqing University of Posts and Telecommunications in 2012 and 2015, respectively.
 
 
 
