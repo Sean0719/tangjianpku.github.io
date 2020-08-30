@@ -14,7 +14,8 @@ I am a Ph.D fellow at Center for Data-Intensive System in Department of Computer
 
 <span style="color:red">What's New</span>
 ======
-* <span style="color:red">New!!</span> [Aug. 2019] One paper was accepted as short paper by ICDE2020!
+* <span style="color:red">New!!</span> [Aug. 2020] One paper was accepted by TKDE!
+* [Aug. 2019] One paper was accepted as short paper by ICDE2020!
 
 
 Research Interests
@@ -27,6 +28,7 @@ Research Interests
 
 Recent Papers
 ======
+* <span style="color:red">New!!</span> **Sean Bin Yang**, Chenjuan Guo, Bin Yang. "[Context-Aware Path Ranking in Road Networks], Accpeted, TKDE'20.
 * <span style="color:red">New!!</span> **Sean Bin Yang**, Bin Yang. "[Learning to rank paths in spatial networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101780)", ICDE'20.
 * **Sean Bin Yang**, Bin Yang. "[PathRank: A Multi-Task Learning Framework to Rank Paths in Spatial Networks](https://arxiv.org/abs/1907.04028)", arXiv'19.
 
