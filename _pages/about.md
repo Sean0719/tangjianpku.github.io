@@ -28,14 +28,14 @@ Research Interests
 
 Recent Papers
 ======
-* <span style="color:red">New!!</span> **Sean Bin Yang**, Chenjuan Guo, Bin Yang. "[Context-Aware Path Ranking in Road Networks], [Code](https://github.com/Sean-Bin-Yang/Learning-to-Rank-Paths), Accpeted, TKDE'20.
+* <span style="color:red">New!!</span> **Sean Bin Yang**, Chenjuan Guo, Bin Yang. "[Context-Aware Path Ranking in Road Networks], Accpeted, TKDE'20.
 * <span style="color:red">New!!</span> **Sean Bin Yang**, Bin Yang. "[Learning to rank paths in spatial networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9101780)", ICDE'20.
 * **Sean Bin Yang**, Bin Yang. "[PathRank: A Multi-Task Learning Framework to Rank Paths in Spatial Networks](https://arxiv.org/abs/1907.04028)", arXiv'19.
 
 
 Selected Publications
 ======
-* **Sean Bin Yang**, Chenjuan Guo, Bin Yang. "[Context-Aware Path Ranking in Road Networks], IEEE Transactions on Knowledge and Data Engineering, Acceptd, Aug, 2020.
+* **Sean Bin Yang**, Chenjuan Guo, Bin Yang. "[Context-Aware Path Ranking in Road Networks], IEEE Transactions on Knowledge and Data Engineering, Acceptd, Aug, 2020.[Code](https://github.com/Sean-Bin-Yang/Learning-to-Rank-Paths)
 * **Bin Yang**, Mingjie Liu, Hakil Kim, Xuenan Cui. "[Luenberger-sliding mode observer based fuzzy double loop integral sliding mode controller for electronic throttle valve](https://www.sciencedirect.com/science/article/pii/S0959152417302068)", Journal of Process Control, 2018, 61: 36-46.
 * Yongfu Li, Yuhao Kang, **Bin Yang**, Srinivas Peeta, Li Zhang, Taixiong Zheng, Yinguo Li. "[A sliding mode controller for vehicular traffic flow](https://www.sciencedirect.com/science/article/pii/S0378437116303211)", Physica A: Sattistical Mechanics and its Applications, 2016, 462(15): 38-47.
 * Yongfu Li, **Bin Yang**, Taixiong Zheng, Yinguo Li, Mingyue Cui, Srinivas Peeta. "[Extended-State-Observer-Based Double-Loop Integral Sliding-Mode Control of Electronic Throttle Valve](https://ieeexplore.ieee.org/abstract/document/7066963)", IEEE Transactions on Intelligent Transportation Systems, 2015, 16(5): 2501-2510.
